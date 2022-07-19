@@ -1,0 +1,124 @@
+{
+  "msg" : "success",
+  "rc" : 0,
+  "data" : {
+    "albumId" : 88899,
+    "pager" : {
+      "pageSize" : 100,
+      "total" : 5,
+      "page" : 1
+    },
+    "list" : [
+      {
+        "explainVideoDuration" : 0,
+        "stat" : [
+
+        ],
+        "narrator" : "",
+        "author" : "",
+        "brand" : "历史人文",
+        "bookId" : "YWlyZXM6MjcxMDU0Ng",
+        "desc" : "",
+        "audio" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220519\/a1e7940118c81a053d50ee9fa03d2f16_acf.mp3",
+        "level" : "L3",
+        "publisher" : "",
+        "cover" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220511\/eb6657edf0b9685789afae641329ad7e.jpg",
+        "type" : 10,
+        "guideVideoDuration" : 0,
+        "duration" : 1314,
+        "explainVideo" : "",
+        "guideVideo" : "",
+        "name" : "世界历史4-5：典雅的雅典",
+        "explainVideoSize" : 0
+      },
+      {
+        "explainVideoDuration" : 0,
+        "stat" : [
+
+        ],
+        "narrator" : "",
+        "author" : "",
+        "brand" : "历史人文",
+        "bookId" : "YWlyZXM6MjcxMDU0Nw",
+        "desc" : "",
+        "audio" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220519\/be9e16b0cca8bdd48414575f5ff5cf95_acf.mp3",
+        "level" : "L3",
+        "publisher" : "",
+        "cover" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220511\/eb6657edf0b9685789afae641329ad7e.jpg",
+        "type" : 10,
+        "guideVideoDuration" : 0,
+        "duration" : 1248,
+        "explainVideo" : "",
+        "guideVideo" : "",
+        "name" : "世界历史4-6：兄弟之战",
+        "explainVideoSize" : 0
+      },
+      {
+        "explainVideoDuration" : 0,
+        "stat" : [
+
+        ],
+        "narrator" : "",
+        "author" : "",
+        "brand" : "自然科学",
+        "bookId" : "YWlyZXM6MjcxMTE3Mw",
+        "desc" : "",
+        "audio" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220529\/5f1d1df81feec52c5d9e1189d4a4fa80_acf.mp3",
+        "level" : "L3",
+        "publisher" : "",
+        "cover" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220526\/37ec1d88c2949167cca7d12b765cafb5.jpg",
+        "type" : 10,
+        "guideVideoDuration" : 0,
+        "duration" : 1930,
+        "explainVideo" : "",
+        "guideVideo" : "",
+        "name" : "小牛顿科学馆：玫瑰（下）",
+        "explainVideoSize" : 0
+      },
+      {
+        "explainVideoDuration" : 0,
+        "stat" : [
+
+        ],
+        "narrator" : "",
+        "author" : "",
+        "brand" : "国学素养",
+        "bookId" : "YWlyZXM6MjcwMTY4Mw",
+        "desc" : "",
+        "audio" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220525\/d28aafac6a1e204463dda20a899fecca_acf.mp3",
+        "level" : "L3",
+        "publisher" : "",
+        "cover" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220420\/bd9d9ef9a4e96147d65550e0b00ed694.jpg",
+        "type" : 10,
+        "guideVideoDuration" : 0,
+        "duration" : 1212,
+        "explainVideo" : "",
+        "guideVideo" : "",
+        "name" : "古诗私房课2-9：塞下曲",
+        "explainVideoSize" : 0
+      },
+      {
+        "explainVideoDuration" : 0,
+        "stat" : [
+
+        ],
+        "narrator" : "",
+        "author" : "",
+        "brand" : "国学素养",
+        "bookId" : "YWlyZXM6MjcwMTY4NA",
+        "desc" : "",
+        "audio" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220523\/aed77763cc42c454fb7bd2bd1d7724fa_acf.mp3",
+        "level" : "L3",
+        "publisher" : "",
+        "cover" : "http:\/\/cdn.aiedevice.com\/media\/res\/20220420\/bd9d9ef9a4e96147d65550e0b00ed694.jpg",
+        "type" : 10,
+        "guideVideoDuration" : 0,
+        "duration" : 1267,
+        "explainVideo" : "",
+        "guideVideo" : "",
+        "name" : "古诗私房课2-10：望洞庭",
+        "explainVideoSize" : 0
+      }
+    ]
+  }
+}
